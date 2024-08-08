@@ -1,0 +1,14 @@
+C:\Users\Dante\source\repos\POO-IO\Libro\obj\Debug\net8.0\Libro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dante\source\repos\POO-IO\Libro\obj\Debug\net8.0\Libro.AssemblyInfoInputs.cache
+C:\Users\Dante\source\repos\POO-IO\Libro\obj\Debug\net8.0\Libro.AssemblyInfo.cs
+C:\Users\Dante\source\repos\POO-IO\Libro\obj\Debug\net8.0\Libro.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\POO-IO\Libro\bin\Debug\net8.0\Libro.exe
+C:\Users\Dante\source\repos\POO-IO\Libro\bin\Debug\net8.0\Libro.deps.json
+C:\Users\Dante\source\repos\POO-IO\Libro\bin\Debug\net8.0\Libro.runtimeconfig.json
+C:\Users\Dante\source\repos\POO-IO\Libro\bin\Debug\net8.0\Libro.dll
+C:\Users\Dante\source\repos\POO-IO\Libro\bin\Debug\net8.0\Libro.pdb
+C:\Users\Dante\source\repos\POO-IO\Libro\obj\Debug\net8.0\Libro.dll
+C:\Users\Dante\source\repos\POO-IO\Libro\obj\Debug\net8.0\refint\Libro.dll
+C:\Users\Dante\source\repos\POO-IO\Libro\obj\Debug\net8.0\Libro.pdb
+C:\Users\Dante\source\repos\POO-IO\Libro\obj\Debug\net8.0\Libro.genruntimeconfig.cache
+C:\Users\Dante\source\repos\POO-IO\Libro\obj\Debug\net8.0\ref\Libro.dll
