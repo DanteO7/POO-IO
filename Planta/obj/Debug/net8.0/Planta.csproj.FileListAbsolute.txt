@@ -1,0 +1,15 @@
+C:\Users\Dante\source\repos\POO-IO\Planta\bin\Debug\net8.0\Planta.exe
+C:\Users\Dante\source\repos\POO-IO\Planta\bin\Debug\net8.0\Planta.deps.json
+C:\Users\Dante\source\repos\POO-IO\Planta\bin\Debug\net8.0\Planta.runtimeconfig.json
+C:\Users\Dante\source\repos\POO-IO\Planta\bin\Debug\net8.0\Planta.dll
+C:\Users\Dante\source\repos\POO-IO\Planta\bin\Debug\net8.0\Planta.pdb
+C:\Users\Dante\source\repos\POO-IO\Planta\obj\Debug\net8.0\Planta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dante\source\repos\POO-IO\Planta\obj\Debug\net8.0\Planta.AssemblyInfoInputs.cache
+C:\Users\Dante\source\repos\POO-IO\Planta\obj\Debug\net8.0\Planta.AssemblyInfo.cs
+C:\Users\Dante\source\repos\POO-IO\Planta\obj\Debug\net8.0\Planta.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\POO-IO\Planta\obj\Debug\net8.0\Planta.sourcelink.json
+C:\Users\Dante\source\repos\POO-IO\Planta\obj\Debug\net8.0\Planta.dll
+C:\Users\Dante\source\repos\POO-IO\Planta\obj\Debug\net8.0\refint\Planta.dll
+C:\Users\Dante\source\repos\POO-IO\Planta\obj\Debug\net8.0\Planta.pdb
+C:\Users\Dante\source\repos\POO-IO\Planta\obj\Debug\net8.0\Planta.genruntimeconfig.cache
+C:\Users\Dante\source\repos\POO-IO\Planta\obj\Debug\net8.0\ref\Planta.dll
