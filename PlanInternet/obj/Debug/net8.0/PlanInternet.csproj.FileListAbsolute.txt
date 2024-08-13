@@ -1,0 +1,15 @@
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\bin\Debug\net8.0\PlanInternet.exe
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\bin\Debug\net8.0\PlanInternet.deps.json
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\bin\Debug\net8.0\PlanInternet.runtimeconfig.json
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\bin\Debug\net8.0\PlanInternet.dll
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\bin\Debug\net8.0\PlanInternet.pdb
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\obj\Debug\net8.0\PlanInternet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\obj\Debug\net8.0\PlanInternet.AssemblyInfoInputs.cache
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\obj\Debug\net8.0\PlanInternet.AssemblyInfo.cs
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\obj\Debug\net8.0\PlanInternet.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\obj\Debug\net8.0\PlanInternet.sourcelink.json
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\obj\Debug\net8.0\PlanInternet.dll
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\obj\Debug\net8.0\refint\PlanInternet.dll
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\obj\Debug\net8.0\PlanInternet.pdb
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\obj\Debug\net8.0\PlanInternet.genruntimeconfig.cache
+C:\Users\Dante\source\repos\POO-IO\PlanInternet\obj\Debug\net8.0\ref\PlanInternet.dll
